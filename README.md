@@ -1,2 +1,2 @@
-# mywebpageininternet.github.in
+# mywebpageininternet.github.io
 Simple Website
